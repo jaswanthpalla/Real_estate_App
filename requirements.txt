@@ -4,4 +4,4 @@ plotly
 wordcloud
 matplotlib
 seaborn
-scikit-learn==1.1.3
+scikit-learn
